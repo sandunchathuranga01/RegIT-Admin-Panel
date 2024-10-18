@@ -1,5 +1,5 @@
 {
-  "name": "regit-admin",
+  "name": "regit-admin-frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
